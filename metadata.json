@@ -1,0 +1,6 @@
+{
+  "name": "EstateHub — Real Estate AI Platform",
+  "description": "Professional real-estate intelligence platform featuring role-based dashboards, 3D property and plot viewers, and 8 advanced AI property analysis modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
